@@ -7,7 +7,7 @@ In this capstone, we will predict if the SpaceX Falcon 9 first stage will land s
 ![SpaceX Launch Success Instances](https://github.com/debdattasarkar/SpaceX-Data-Science-Project/blob/master/images/success.gif)
 
 ### Background
-SpaceX, a leader in the space industry, strives to make space travel affordable for everyone. Its accomplishments include sending spacecraft to the international space station, launching a satellite constellation that provides internet access and sending manned missions to space. SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. To do this, public data, and machine learning models to predict whether SpaceX can reuse the first stage is used.
+SpaceX, a leader in the space industry, strives to make space travel affordable for everyone. Its accomplishments include sending spacecraft to the international space station, launching a satellite constellation that provides internet access and sending manned missions to space. SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore, if we can determine if the first stage will land, we can determine the cost of a launch. To do this, public data, and machine learning models to predict whether SpaceX can reuse the first stage are used.
 
 ### Questions to address
 * What factors of a mission influence Falcon 9 launch success?
