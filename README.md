@@ -25,7 +25,7 @@ The research attempts to identify the factors for a successful rocket landing. T
 * **Interactive Visual Analytics** using:
   * Folium for interactive maps, calculates distances between launch sites to its proximities, and also helps assess the geographical terrain of a site
   * Plotly Dash for dashboard, gives total success launches for a site, and also gives correlation between payload and launch outcome for a specific payload range 
-* **Predictive Modeling** to predict best performing model using logistic regression, support vector machine (SVM), decision tree and K-nearest neighbor (KNN)
+* **Predictive Modeling** to predict the best performing model out of logistic regression, support vector machine (SVM), decision tree and K-nearest neighbor (KNN)
 
 ## Results
 
